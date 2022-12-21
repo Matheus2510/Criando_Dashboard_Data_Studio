@@ -45,6 +45,14 @@
    <p align="center">
    <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/simbolo_vendas.svg" height="100" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/imagem_em_branco.png" height="100" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/cifrao.svg" height="100" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/imagem_em_branco.png" height="100" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/bloco_de_notas.svg" height="100" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/imagem_em_branco.png" height="100" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/fatia_pizza.svg" height="100" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/imagem_em_branco.png" height="100" width="100">
    </p>
+   
+   Voltando aos scorecards, para dar um visual mais agradável, removi as legendas que o Data Studio traz por padrão, compactei os números, e acoplei a imagem representativa de cada indicador ao seu lado esquerdo, além de preencher os fundos de todos esses elementos com a terceira cor de nossa paleta. Como acabamento, inseri um retângulo ao fundo com bordas arredondadas e sombra para um efeito adicional, preenchendo-o também com a terceira cor da paleta.
+   
+  <p align="center">
+   <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/scorecards.png" height="100" width="600">
+   </p>
+   
+   
 ## Autores
 
 * Matheus Henrique de Souza: @Matheus2510 (https://github.com/Matheus2510)
