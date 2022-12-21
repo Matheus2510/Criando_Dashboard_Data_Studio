@@ -30,8 +30,9 @@
    Sobre a construção do dashboard de fato, o primeiro passo foi definir um tema e layout para o projeto. Isso foi feito escolhendo-se uma imagem de pizza (aparentemente bem saborosa). A seguir são apresentadas a imagem e a paleta de cores que o Data Studio selecionou a partir dela.
    
    <p align="center">
-   <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/tema.jpg" height="100" width="100">       <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/paleta_tema.png" height="100" width="300">
+   <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/tema.jpg" height="100" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/imagem_em_branco.png" height="100" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/paleta_tema.png" height="100" width="300">
    </p>
+   
    
    Em essência, utilizei a primeira cor da paleta para o fundo geral e bordas dos elementos. A cor preta para textos e elementos gráficos, e a terceira cor para o fundo dos elementos gráficos e imagens.
    
@@ -41,7 +42,9 @@
    
    Neste ponto é bom, para evitar repetições no futuro, explicitar o tratamento que todas as imagens - com exceção da imagem que serviu de tema, já que esta apenas teve sua transparência aumentada - que constam no dashboard receberam. Após ter a imagem desejada para cada caso, as converti em SVG, com auxílio do site *Convertio*. Após isso, as preenchi com a terceira cor de nossa paleta. As imagens abaixo foram as selecionadas para estilizar o visual do projeto.
    
-   
+   <p align="center">
+   <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/simbolo_vendas.svg" height="100" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/imagem_em_branco.png" height="100" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/cifrao.svg" height="100" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/imagem_em_branco.png" height="100" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/bloco_de_notas.svg" height="100" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/imagem_em_branco.png" height="100" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/fatia_pizza.svg" height="100" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/imagem_em_branco.png" height="100" width="100">
+   </p>
 ## Autores
 
 * Matheus Henrique de Souza: @Matheus2510 (https://github.com/Matheus2510)
