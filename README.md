@@ -76,7 +76,14 @@
    <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/vendas_tamanho.png" height="250" width="200"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/imagem_em_branco.png" height="250" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/pizzas.png" height="250" width="200"> 
    </p>   
    
-   Para finalizar o dashboard, inclui os flltros, que são três: filtro de meses, filtro de horas, e filtro de ingredientes. O primeiro é uma lista de tamanho fixo, em que o usuário apenas assinala ou não os meses desejados. O segundo é uma lista suspensa, com a informação adicional à direita de quantos pedidos foram realizados em cada hora. O último, por sua vez, é um filtro avançado, em que o usuário digita as primeiras letras de um ingrediente, ou mesmo a palavra completa, e o dashboard atualiza automaticamente com base apenas nas pizzas que contém aquele ingrediente.
+   Para finalizar o dashboard, inclui os flltros, que são três: filtro de meses, filtro de horas, e filtro de ingredientes. O primeiro é uma lista de tamanho fixo, em que o usuário apenas assinala ou não os meses desejados. O segundo é uma lista suspensa, com a informação adicional à direita de quantos pedidos foram realizados em cada hora. O último, por sua vez, é um filtro avançado, em que o usuário digita as primeiras letras de um ingrediente, ou mesmo a palavra completa, e o dashboard atualiza automaticamente com base apenas nas pizzas que contém aquele ingrediente. A formatação de cada um seguiu o padrão dos gráficos e tabelas.
+   
+   <p align="center">
+   <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/meses.png" height="250" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/imagem_em_branco.png" height="250" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/hora.png" height="250" width="150"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/imagem_em_branco.png" height="100" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/ingredientes.png" height="100" width="250">
+   </p>   
+   
+   
+   
 ## Autores
 
 * Matheus Henrique de Souza: @Matheus2510 (https://github.com/Matheus2510)
