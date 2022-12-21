@@ -61,9 +61,15 @@
    O acompanhamento mensal teve exatamente foi construído exatamente da mesma forma. A única diferença é o tipo do gráfico, que é o de colunas. Um ponto interessante também é o recurso do Data Studio que extrai informações secundárias a partir de datas. Na base de dados utilizada, é informada apenas a data dos pedidos. Porém o Data Studio consegue extrair outras informações, como dia da semana e mês, por exemplo.
    
    <p align="center">
-   <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/faturamento_mensal.png" height="250" width="700">
+   <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/faturamento_mensal.png" height="250" width="500">
    </p>   
    
+   Já o acompanhamento por dia da semana foi feito utilizando-se uma tabela com mapa de calor para os valores. O truque da caixa de texto e da linha preta também esteve presente nesse elemento. A diferença aqui é que houve necessidade de incluir um retângulo auxiliar de fundo para manter a padronização com o restante do dashboard, já que as tabelas não permitem estilização completa em si mesmas.
+   
+   <p align="center">
+   <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/faturamento_dia_semana.png" height="250" width="350">
+   </p>   
+    
    
    
 ## Autores
