@@ -27,6 +27,13 @@
    
    Vale ressaltar que, apesar de nesse caso a união das tabelas ser feita de forma manual, é possível automatizar o processo, como apresentado [neste projeto](https://github.com/Matheus2510/Carga_de_Dados_-ETL-_Google_Sheets), por exemplo, e realizar a atualização da pase de dados periodicamente. Como aqui a base de dados utilizada é estática com dados retroativos, e o objetivo principal é o dashboard em si, não vi necessidade de tal procedimento.
    
+   Sobre a construção do dashboard de fato, o primeiro passo foi definir um tema e layout para o projeto. Isso foi feito escolhendo-se uma imagem de pizza (aparentemente bem saborosa). A seguir são apresentadas a imagem e a paleta de cores que o Data Studio selecionou a partir dela.
+   
+   <p align="center">
+   <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/tema.jpg" height="100" width="100">       <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/paleta_tema.png" height="100" width="300">
+   </p>
+   
+   
 
 
 ## Autores
