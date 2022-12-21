@@ -19,7 +19,7 @@
 
 
 
-# Dashboard
+## Dashboard
 
   Apresento aqui o processo de elaboração de um [dashboard de vendas](https://datastudio.google.com/s/j-LsjUnXS8g) para uma pizzaria fictícia referente ao ano de 2015. Os dados foram retirados do site *Maven Analytics*, e são compostos por quatro tabelas de dados propriamente ditos - tabela de pedidos, tabela de detalhamento de pedidos, tabela de pizzas e tabela de tipos de pizzas - mais uma tabela de descrição das informações dos dados em geral. Esses dados estão presentes nos arquivos do projeto.
 
@@ -48,9 +48,20 @@
    
    Voltando aos scorecards, para dar um visual mais agradável, removi as legendas que o Data Studio traz por padrão, compactei os números, e acoplei a imagem representativa de cada indicador ao seu lado esquerdo, além de preencher os fundos de todos esses elementos com a terceira cor de nossa paleta. Como acabamento, inseri um retângulo ao fundo com bordas arredondadas e sombra para um efeito adicional, preenchendo-o também com a terceira cor da paleta.
    
-  <p align="center">
+   <p align="center">
    <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/scorecards.png" height="100" width="600">
    </p>
+   
+   Para os acompanhamentos das vendas ao longo do tempo, optei por abordar três granularidades diferentes: diária, semanal, e mensal. Para a diária, escolhi um gráfico de série temporal, pois se encaixa melhor com uma maior quantidade de pontos. Sua customização foi feita removendo a legenda padrão e ajustando a grade a um tamanho que as informações permitissem uma leitura adequada, inclusive colorindo essa própria grade com um tom suave de cinza, para um realce maior da série temporal. Há um toque adicional, que é a inclusão de uma caixa de texto contendo o título do gráfico, e a inclusão de uma linha preta, para dar um sentido de separação entre título e gráfico. Além disso, houve a inclusão de bordas arredondadas e sombra na cor primária da paleta.
+   
+   <p align="center">
+   <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/faturamento_diario.png" height="250" width="700">
+   </p>
+   
+   
+   
+   
+   
    
    
 ## Autores
