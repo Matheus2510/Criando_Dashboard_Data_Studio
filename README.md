@@ -35,13 +35,13 @@
    
    Em essência, utilizei a primeira cor da paleta para o fundo geral e bordas dos elementos. A cor preta para textos e elementos gráficos, e a terceira cor para o fundo dos elementos gráficos e imagens.
    
-   Neste ponto é bom, para evitar repetições no futuro, explicitar o tratamento que todas as imagens - com exceção da imagem que serviu de tema, já que esta apenas teve sua transparência aumentada - que constam no dashboard receberam. Após ter a imagem desejada para cada caso, as converti em SVG, com auxílio do site *Convertio*. Após isso, as preenchi com a terceira cor de nossa paleta.
-   
    Após a definição da paleta de cores, a intenção foi determinar quais informações estariam presentes para visualização. Avaliando os dados disponíveis e os objetivos do negócio, segmentei os elementos em quatro grupos: resumo de desempenho, acompanhamento ao longo do tempo, detalhes por produtos e filtros. 
    
-   Para o primeiro grupo, julguei interessante destacar o total de faturamento, o número de pedidos e o número de pizzas vendidas. Para representar esses pontos, utilizei scorecards (um objeto semelhante a uma caixa de texto, que contém algum indicador).
-
-
+   Para o primeiro grupo, julguei interessante destacar o total de faturamento, o número de pedidos e o número de pizzas vendidas. Para representar esses itens, utilizei scorecards (um objeto semelhante a uma caixa de texto, que contém algum indicador).
+   
+   Neste ponto é bom, para evitar repetições no futuro, explicitar o tratamento que todas as imagens - com exceção da imagem que serviu de tema, já que esta apenas teve sua transparência aumentada - que constam no dashboard receberam. Após ter a imagem desejada para cada caso, as converti em SVG, com auxílio do site *Convertio*. Após isso, as preenchi com a terceira cor de nossa paleta. As imagens abaixo foram as selecionadas para estilizar o visual do projeto.
+   
+   
 ## Autores
 
 * Matheus Henrique de Souza: @Matheus2510 (https://github.com/Matheus2510)
