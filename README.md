@@ -1,23 +1,37 @@
 # Criando de um Dashboard com o Google Data Studio
+   <p align="center">
+   <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/dashboard.jpeg" height="750" width="3500">
+   </p>  
 
 ## Tecnologias
 
+* Google Chrome Versão 107.0.5304.123
 
 ## Serviços utilizados
 
-
+* Google Data Studio
+* Google Sheets
+* https://convertio.co/pt/
+* https://www.mavenanalytics.io/
 
 ## Como usar
 
+Todos os elementos do dashboard são interativos. Pode-se utilizar os filtros para informações mais específicas, bem como clicar sobre cada elemento de um gráfico ou tabela, pois o projeto utiliza filtros cruzados.
 
 
 ## Features
 
-
+* Modelagem relacional
+* Tratamento de dados
+* Bases de dados
+* ETL
+* Data Vizualization
+* Business Inteligence
+* Google Data Studio
 
 ## Versão
 
-
+* 1.0.0.0
 
 ## Dashboard
 
