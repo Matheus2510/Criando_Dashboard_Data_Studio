@@ -58,9 +58,11 @@
    <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/faturamento_diario.png" height="250" width="700">
    </p>
    
+   O acompanhamento mensal teve exatamente foi construído exatamente da mesma forma. A única diferença é o tipo do gráfico, que é o de colunas. Um ponto interessante também é o recurso do Data Studio que extrai informações secundárias a partir de datas. Na base de dados utilizada, é informada apenas a data dos pedidos. Porém o Data Studio consegue extrair outras informações, como dia da semana e mês, por exemplo.
    
-   
-   
+   <p align="center">
+   <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/faturamento_mensal.png" height="250" width="700">
+   </p>   
    
    
    
