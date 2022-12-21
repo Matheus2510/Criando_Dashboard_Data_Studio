@@ -96,8 +96,6 @@ Todos os elementos do dashboard são interativos. Pode-se utilizar os filtros pa
    <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/meses.png" height="250" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/imagem_em_branco.png" height="250" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/hora.png" height="250" width="150"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/imagem_em_branco.png" height="100" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/ingredientes.png" height="100" width="250">
    </p>   
    
-   
-   
 ## Autores
 
 * Matheus Henrique de Souza: @Matheus2510 (https://github.com/Matheus2510)
