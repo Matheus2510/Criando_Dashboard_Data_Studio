@@ -1,1 +1,31 @@
-# Criando_Dashboard_Data_Studio
+# Criando de um Dashboard com o Google Data Studio
+
+## Tecnologias
+
+
+## Serviços utilizados
+
+
+
+## Como usar
+
+
+
+# Features
+
+
+
+## Versão
+
+
+
+# Dashboard
+
+  Apresento aqui o processo de elaboração de um dashboard de vendas para uma pizzaria fictícia referente ao ano de 2015. o dashboard já pronto pode ser acessado no link https://datastudio.google.com/s/j-LsjUnXS8g Os dados foram retirados do site *Maven Analytics*, e são compostos por quatro tabelas de dados propriamente ditos - tabela de pedidos, tabela de detalhamento de pedidos, tabela de pizzas e tabela de tipos de pizzas - mais uma tabela de descrição das informações dos dados em geral. Esses dados estão presentes nos arquivos do projeto.
+   O dashboard em si utiliza uma união dessas quatro tabelas, e havia duas opções: 1) Realizar essa união com o recurso de combinação de dados do Data Studio ou 2) Carregar essa base final já pronta para o Data Studio. Optei pela segunda, para melhor desempenho do dashboard - assim evita-se que o Data Studio desperdice recursos sempre preparando as tabelas antes de projetar as visualizações.Fiz isso utilizando o Google Sheets: criei uma sheets com 5 abas, uma worksheet para cada tabela de dados e outra para a unificação dessas tabelas. Esta última sendo a base de dados que o Data Studios utiliza de fato. O link para a sheets resultante é https://docs.google.com/spreadsheets/d/1UUHogXK8wlmQprItWgKoWVH-6MTYEr-ayiPC3C7A7ak/edit?usp=sharing
+   Vale ressaltar que, apesar de nesse caso a união das tabelas ser feita de forma manual, é possível automatizar o processo, com Python, por exemplo, e realizar a atualização da pase de dados periodicamente
+
+
+## Autores
+
+* Matheus Henrique de Souza: @Matheus2510 (https://github.com/Matheus2510)
