@@ -70,7 +70,11 @@
    <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/faturamento_dia_semana.png" height="250" width="350">
    </p>   
     
+   Para os elementos referentes aos detalhes por produtos, preferi abordar a proporção que cada tamanho de pizza tem em relação ao total de vendas - gráfico de rosca - e as pizzas mais vendidas, em ordem decrescente - tabela com barras. Como o primeiro é um gráfico e o último é uma tabela, apenas reproduzi o que já foi abordado acima, alterando apenaos dados abordados.
    
+   <p align="center">
+   <img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/vendas_tamanho.png" height="250" width="200"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/imagem_em_branco.png" height="250" width="100"><img src="https://github.com/Matheus2510/Criando_Dashboard_Data_Studio/blob/main/imagens/pizzas.png" height="250" width="200"> 
+   </p>   
    
 ## Autores
 
